@@ -18,7 +18,6 @@ Tested on a stock lolipop rom (nakasig-lmy47v) with:
 - stericson busybox (from the playstore, if you get it from anywhere else it's a malware).
 - SuperSU-v2.82 (be carefull with all the false links, as long as you'r on the domain chainfire.eu it is fine).
 
-Let me know if you go about testing it with other superuser apps, busyboxes or android versions, so that I can update the readme.
 
 
 
