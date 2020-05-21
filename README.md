@@ -17,9 +17,10 @@ That's it !
 Tested on a stock lolipop rom (nakasig-lmy47v) with:
 - SuperSU-v2.82 (be carefull with all the false links, as long as you'r on the domain chainfire.eu it is fine).  
 - stericson busybox, from the playstore, don't need pro version, just use standard install in /system/xbin or /su/xbin  
-The link below is compatible with bcmon only on marshmallow, I am currently working on the kernel from unlegacy android to enable frame injection.  
-https://forum.xda-developers.com/android/software-hacking/tool-flashable-busybox-v1-23-2-stericson-t3219431/page4  
 
+The link below is compatible with bcmon only on marshmallow (it will mess up your install on stock lollipop).
+https://forum.xda-developers.com/android/software-hacking/tool-flashable-busybox-v1-23-2-stericson-t3219431/page4  
+I am currently trying to compile a 3.4 kernel that will support frame injection.
 
 
 
