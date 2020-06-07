@@ -15,12 +15,12 @@ https://yurushao.info/tech/2016/03/14/Android-PIE.html
 
 That's it !
 Tested on a stock lolipop rom (nakasig-lmy47v) with:
-- SuperSU-v2.82 (be carefull with all the false links, as long as you'r on the domain chainfire.eu it is fine).  
+- SuperSU-v2.82 (be carefull with all the false links, as long as you'r on the domain chainfire.eu it is fine)  
 - stericson busybox, from the playstore, don't need pro version, just use standard install in /system/xbin or /su/xbin  
 
-The link below is compatible with bcmon only on marshmallow (it will mess up your install on stock lollipop).
-https://forum.xda-developers.com/android/software-hacking/tool-flashable-busybox-v1-23-2-stericson-t3219431/page4  
-I am currently trying to compile a 3.4 kernel that will support frame injection.
+Tested on Unlegacy Android marshmallow with:  
+- SuperSU-v2.82  
+- https://forum.xda-developers.com/android/software-hacking/tool-flashable-busybox-v1-23-2-stericson-t3219431/  
+- boot.img that you will find in the releases  
 
-
-
+If you install nethunter on marshmallow, please do the procedure to install bcmon first. Reason is that bcmon needs a specific busybox to set up its tools, and nethunter overrides this busybox.
