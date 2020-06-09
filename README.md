@@ -21,6 +21,6 @@ Tested on a stock lollipop rom (nakasig-lmy47v) with:
 Tested on Unlegacy Android marshmallow:
 - SuperSU-v2.82  
 - https://forum.xda-developers.com/android/software-hacking/tool-flashable-busybox-v1-23-2-stericson-t3219431/  
-- boot.img that you will find in the releases compiled from binkybear kernel for grouper version 3.4  
+- boot.img that you will find in the releases compiled from binkybear kernel for grouper version 3.4 (sound not working or my tab is broken)  
 
 If you install nethunter on marshmallow, please do the procedure to install bcmon first. Reason is that bcmon needs a specific busybox to set up its tools, and nethunter overrides this busybox.
