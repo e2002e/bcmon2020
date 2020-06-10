@@ -15,12 +15,12 @@ https://yurushao.info/tech/2016/03/14/Android-PIE.html
 
 That's it !  
 Tested on a stock lollipop rom (nakasig-lmy47v) with:
-- SuperSU-v2.82 (be carefull with all the false links, as long as you'r on the domain chainfire.eu it is fine)  
-- stericson busybox, from the playstore, don't need pro version, just use standard install in /system/xbin or /su/xbin  
+- [https://download.chainfire.eu/1220/SuperSU/SR5-SuperSU-v2.82-SR5-20171001224502.zip?retrieve_file=1](SuperSU-v2.82)   
+- stericson busybox from the playstore, you don't need pro version, just use standard install in /system/xbin or /su/xbin. And **do not** install the link from below as it will break the system.
 
 Tested on Unlegacy Android marshmallow:
-- SuperSU-v2.82  
-- https://forum.xda-developers.com/android/software-hacking/tool-flashable-busybox-v1-23-2-stericson-t3219431/  
-- boot.img that you will find in the releases compiled from binkybear kernel for grouper version 3.4  
+- [https://download.chainfire.eu/1220/SuperSU/SR5-SuperSU-v2.82-SR5-20171001224502.zip?retrieve_file=1](SuperSU-v2.82)  
+- [https://forum.xda-developers.com/android/software-hacking/tool-flashable-busybox-v1-23-2-stericson-t3219431/](Busybox)
+- boot.img that you will find in the releases, compiled from [https://github.com/binkybear/android_kernel_asus_grouper-1](nvidia kernel for tegra version 3.4, configured by binkybear)  
 
 If you install nethunter on marshmallow, please do the procedure to install bcmon first. Reason is that bcmon needs a specific busybox to set up its tools, and nethunter overrides this busybox.
