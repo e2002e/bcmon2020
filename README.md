@@ -15,7 +15,7 @@ https://yurushao.info/tech/2016/03/14/Android-PIE.html
 
 That's it !  
 Tested on a stock lollipop rom (nakasig-lmy47v) with:
-- [https://download.chainfire.eu/1220/SuperSU/SR5-SuperSU-v2.82-SR5-20171001224502.zip?retrieve_file=1](SuperSU-v2.82)   
+- [SuperSU-v2.82](https://download.chainfire.eu/1220/SuperSU/SR5-SuperSU-v2.82-SR5-20171001224502.zip?retrieve_file=1)   
 - stericson busybox from the playstore, you don't need pro version, just use standard install in /system/xbin or /su/xbin. And **do not** install the link from below as it will break the system.
 
 Tested on Unlegacy Android marshmallow:
