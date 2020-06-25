@@ -20,6 +20,6 @@ Tested on a stock lollipop rom (nakasig-lmy47v) with:
 Tested on Unlegacy Android marshmallow:
 - [SuperSU-v2.82](https://download.chainfire.eu/1220/SuperSU/SR5-SuperSU-v2.82-SR5-20171001224502.zip?retrieve_file=1)  
 - [Busybox](https://forum.xda-developers.com/android/software-hacking/tool-flashable-busybox-v1-23-2-stericson-t3219431/)
-- boot.img that you will find in the releases, compiled from [nvidia kernel for tegra version 3.4, configured by binkybear](https://github.com/binkybear/android_kernel_asus_grouper-1). Note that if you unplug the headset's jack while a media is playing, the tablet needs to be reboot. ALso Facing suddent reboots when giving it a lot of work.  
+- boot.img that you will find in the releases, compiled from [nvidia kernel for tegra version 3.4, configured by binkybear](https://github.com/binkybear/android_kernel_asus_grouper-1). Note that if you unplug the headset's jack while a media is playing, the tablet needs to be reboot to regain the device. Also Facing suddent reboots when giving it a lot of work.  
 
 If you install nethunter on marshmallow, please do the procedure to install bcmon first. Reason is that bcmon needs a specific busybox to set up its tools, and nethunter overrides this busybox.
